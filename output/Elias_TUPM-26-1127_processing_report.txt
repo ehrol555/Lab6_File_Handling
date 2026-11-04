@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Elias
+Student ID: TUPM-26-1127
+Seed Digit: 7
+ID Sum: 19
+Verification Value: 102
+Dataset Sample Size: 69
+Valid Records: 69
+Average Global Active Power: 4.041
+JSON File: Elias_TUPM-26-1127_record.json
+Backup File: Elias_TUPM-26-1127_record.csv
