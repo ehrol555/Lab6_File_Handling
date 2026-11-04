@@ -1,0 +1,9 @@
+Student: Elias
+Student ID: TUPM-26-1127
+Seed digit: 7
+ID Sum: 19
+Verification Value: 102
+Verification Value: 102
+Verification Value: 102
+Verification Value: 102
+Verification Value: 102
